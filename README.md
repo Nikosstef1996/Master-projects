@@ -1,6 +1,6 @@
 PySpark_Log_Analysis.ipynb: Use of PySpark to analyse a simulated log file of 100 entries and extract meaningful information by use of functions such as map, reduce, filter, takeOrdered.
 
-Similarity_Measures.ipynb: Implemented four similarity measures from scratch: Cosine similarity, Jaccard similarity, Manhattan similarity, Euclidean similarity, We computed TF-IDF manually and applied it to the cosine similarity.Compared results between the measures.
+Similarity_Measures.ipynb: Implemented four similarity measures from scratch for a document of words: Cosine similarity, Jaccard similarity, Manhattan similarity, Euclidean similarity, We computed TF-IDF manually and applied it to the cosine similarity.Compared results between the measures.
 
 Wine_dataset_classifiers.ipynb: Classification in a wine dataset with LogisticRegression, KNeighborsClassifier, MultinomialNB,DecisionTreeClassifier, RandomForestClassifier and used various metrics such as : Confusion Matrix, precision, recall, f1-score.
 
